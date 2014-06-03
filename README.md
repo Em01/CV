@@ -2,6 +2,10 @@
 ###Currently studying web development at Makers Academy, London
 -------------------------------------------------------------------
 
+###Code Examples
+
+###About Me
+
 ### Makers Academy
 #### March intake-2014
 
