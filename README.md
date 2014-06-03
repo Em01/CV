@@ -1,5 +1,5 @@
 ### Makers Academy
-#### March inatke-2014
+#### March intake-2014
 
  -12 week intensive coding and Web Development bootcamp in London
 --------------------------------------------------------------------
