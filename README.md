@@ -46,3 +46,26 @@
 #### BTEC National Diploma in Music (Classical)
 
 -------------------------------------------------------------
+
+### Skills
+
+- Test driven development
+- Pair Programming 
+- OOD and OOP
+- Testing with RSpec
+- Integration testing with Capybara
+- BDD with Cucumber
+- HTML5, CSS3 and Twitter Bootstrap
+- -Ruby
+- Rails
+- Sinatra
+- ERB
+- Heroku
+- Javascript, jQuery
+- PostreSQL
+- Git & GitHub
+
+--------------------------------------------------------------
+
+### Contact Me
+#### Emma Williams 
