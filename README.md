@@ -2,6 +2,7 @@
 #### March inatke-2014
 
  -12 week intensive coding and Web Development bootcamp in London
+--------------------------------------------------------------------
  
 ### Irving Berlin's White Christmas-Edinburgh Playhouse (2013)
 #### Sound Deputy
