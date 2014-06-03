@@ -1,3 +1,7 @@
+##Emma Williams
+###Currently studying web development at Makers Academy, London
+-------------------------------------------------------------------
+
 ### Makers Academy
 #### March intake-2014
 
