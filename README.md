@@ -30,9 +30,9 @@
 
 -------------------------------------------------------------
 ##Education 
-###Makers Academy, London March-June 2014 
-###Bmus Music City University  
-###BTEC National Diploma in Music Practice (classical), Leeds College of Music. 
+- Makers Academy, London March-June 2014 
+- Bmus Music City University  
+-BTEC National Diploma in Music Practice (classical), Leeds College of Music. 
 
 -------------------------------------------------------------
 
