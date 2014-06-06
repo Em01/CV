@@ -11,40 +11,22 @@
 
  -12 week intensive coding and Web Development bootcamp in London
 --------------------------------------------------------------------
- 
-### Irving Berlin's White Christmas-Edinburgh Playhouse (2013)
-#### Sound Deputy
 
-### Hairspray-Kuala Lumpur & Singapore (2013)
-#### Sound No.3
+##Work
 
-### Cats European Tour (2013)
-#### Swing tech and Sound temporary cover
+###Various shows as a sound engineer in the UK and abroad. I have worked in this industry for over five years and due to the short running of some shows I have not listed every show I have worked on but a sample is below. Responsibilites range from operating and mixing the show to looking after the microphones and delagting with performers backstage. I also studied full time for a degree throughout most of this period.
 
-### Irving Berlin's White Christmas-The Lowry, Manchester (2012)
-#### Sound Deputy
+* Irving Berlin's White Christmas, November to January 2012 & 2013, Lowry Theatre Manchester and Edinburgh Festival Theatre.
 
-### Legally Blonde-UK Tour (2012)
-#### Sound No.3 
+* Hairspray, Kuala Lumpur & Singapore 2012
 
-### Vampirette the Musical-Manchester Opera House (2012)
-#### Sound Deputy
+* Legally Blonde UK Tour, 2012
 
-### Monkee Business the Musical-UK Tour (2012)
-#### Sound Deputy
+* Crazy for You, Regents Park Open Air Theatre & The Novello Theatre London, 2011-2012
 
-### Crazy For You-Regents Park and Novello Theatres (2011-2012)
-#### Sound Deputy
+* Les Miserables, The Queens Theatre London, 2010-2011
 
-### Les Miserables-Queens Theatre, London (2010-2011)
-#### Sound No.4
-
-### The Phantom of The Opera-Her Majestys Theatre, London
-#### Sound No.3 (2009-2010)
-
-### Sound Dep-Temporary Cover (2008-2014)
-#### The Lion King, Rock of Ages, War Horse, Jersey Boys, Grease, Hairspray, Billy Elliott, Priscilla, Rocky Horror, Treasure Island, Zorro, Blood Brothers
-
+* The Phanton of the Opera, Her Majestys Theatre London, 2009-2010
 
 -------------------------------------------------------------
 ### City University & Goldsmiths College (completed 2013)
