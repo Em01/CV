@@ -29,11 +29,10 @@
 * The Phanton of the Opera, Her Majestys Theatre London, 2009-2010
 
 -------------------------------------------------------------
-### City University & Goldsmiths College (completed 2013)
-#### Bmus Music
-
-### Leeds College of Music (completed 2012)
-#### BTEC National Diploma in Music (Classical)
+##Education 
+###Makers Academy, London March-June 2014 
+###Bmus Music City University  
+###BTEC National Diploma in Music Practice (classical), Leeds College of Music. 
 
 -------------------------------------------------------------
 
