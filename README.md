@@ -14,7 +14,7 @@
 
 ##Work
 
-###Various shows as a sound engineer in the UK and abroad. I have worked in this industry for over five years and due to the short running of some shows I have not listed every show I have worked on but a sample is below. Responsibilites range from operating and mixing the show to looking after the microphones and delagting with performers backstage. I also studied full time for a degree throughout most of this period.
+#####Various shows as a sound engineer in the UK and abroad. I have worked in this industry for over five years and due to the short running of some shows I have not listed every show I have worked on but a sample is below. Responsibilites range from operating and mixing the show to looking after the microphones and delagting with performers backstage. I also studied full time for a degree throughout most of this period.
 
 * Irving Berlin's White Christmas, November to January 2012 & 2013, Lowry Theatre Manchester and Edinburgh Festival Theatre.
 
