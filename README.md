@@ -3,6 +3,13 @@
 -------------------------------------------------------------------
 
 ###Code Examples
+----------------
+
+| [Airports] | [Sudoku] | [ProjectX] |
+|:---------- |:-------- |:---------- |
+| test driven airports|
+|Sinatra web-app|
+|final project|
 
 ###About Me
 #####I started to teach myself to code around a year ago using as many online resources, books and workshops that I could find. I enjoyed it so much that I made the decision to pursue this as a career. I gained a place at Makers Academy, a highly competitive and intensive 12 week web development course in London where I started at the end of March 2014. I was unable to afford the course fees so I launched a crowdfunding campaign with StudentFunder which enabled me to attend. 
