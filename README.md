@@ -5,7 +5,7 @@
 ###Code Examples
 ----------------
 
-| [Airports](https://github.com/Em01/Airports) | [Sudoku](https://github.com/Em01/sudoku-web) | [ProjectX](https://github.com/StephanMusgrave/ProjectX) |
+| [ProjectX](https://github.com/StephanMusgrave/ProjectX) | [Airports](https://github.com/Em01/Airports) | [Sudoku](https://github.com/Em01/sudoku-web) | 
 |:---------- |:-------- |:---------- |
 |Final project at Makers Academy using Rails, it is a mobile first design for an app that allows students to buy and sell products within a university environment. | Third week test at Makers Academy. 100% test-driven using RSpec to create a model of airports and planes using Ruby. | Sinatra web application allowing Sudoku puzzles to be played online. | 
 
