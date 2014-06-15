@@ -49,5 +49,5 @@
 
 ### Contact Me
 #### Emma Williams 07862000292 em01williams@gmail.com 
-  [GitHub]: https://github.com/Em01
+   https://github.com/Em01
   [Linkedin]: http://linkedin.com/in
