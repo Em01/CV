@@ -47,7 +47,6 @@ I have worked on various shows as a sound engineer both within the UK and abroad
 ##Contact Me
 
 ### Emma Williams 
-- 07862000292 
 - em01williams@gmail.com 
 - [GitHub](http://github.com/Em01) 
 - [Linkedin](https://www.linkedin.com/pub/emma-williams/42/b6a/448)
