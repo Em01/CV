@@ -42,7 +42,7 @@ I have worked on various shows as a sound engineer both within the UK and abroad
 
 - Makers Academy, London March-June 2014 
 - Bmus Music City University  
-- BTEC National Diploma in Music Practice (classical), Leeds College of Music. 
+- BTEC National Diploma in Music Practice (Classical), Leeds College of Music. 
 
 ##Contact Me
 
