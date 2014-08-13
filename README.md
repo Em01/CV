@@ -22,9 +22,10 @@ I started to teach myself to code around a year ago using as many online resourc
 - Git & GitHub version control 
 - PostgreSQL 
 - Web frameworks: Sinatra & Rails 
-- Implementation of APIs: Twillio & Stripe 
+- Implementation of APIs 
 - AWS 
 - Heroku
+- Shopify & BigCommerce platforms
 
 
 ##Work
