@@ -29,9 +29,11 @@ I started to teach myself to code around a year ago using as many online resourc
 
 
 ##Work
- * Junior Developer at Sincuru, London.
 
-I have worked on various shows as a sound engineer both within the UK and abroad. I worked in this industry for over five years and due to the short running period of some shows I have not listed every show I have worked on but a sample is below. Responsibilities range from operating and mixing the show to looking after the microphones and delegating with performers backstage. I also studied full time for a degree throughout most of this period.  
+Since graduating from Makers Academy i have been working as a Junior Developer for a London based Startup.
+ * Junior Developer at Sincuru, London. 
+ 
+Prior to training as a web developer I worked on various shows as a sound engineer both within the UK and abroad. I worked in this industry for over five years and due to the short running period of some shows I have not listed every show I have worked on but a sample is below. Responsibilities range from operating and mixing the show to looking after the microphones and delegating with performers backstage. I also studied full time for a degree throughout most of this period.  
 
 *	Irving Berlin's White Christmas, November to January 2012 & 2013, Lowry Theatre Manchester and Edinburgh Festival Theatre.
 *	Hairspray, Kuala Lumpur & Singapore, 2012 
