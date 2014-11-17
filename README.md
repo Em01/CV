@@ -29,6 +29,7 @@ I started to teach myself to code around a year ago using as many online resourc
 
 
 ##Work
+ * Junior Developer at Sincuru, London.
 
 I have worked on various shows as a sound engineer both within the UK and abroad. I worked in this industry for over five years and due to the short running period of some shows I have not listed every show I have worked on but a sample is below. Responsibilities range from operating and mixing the show to looking after the microphones and delegating with performers backstage. I also studied full time for a degree throughout most of this period.  
 
